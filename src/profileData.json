@@ -1,0 +1,54 @@
+{
+	"landing": {
+		"firstName": "Allen",
+		"lastName": "Garcia",
+		"phoneNumber": "(+63)927-463-7365",
+		"bio": "I am an IT student at New Era University. I love making websites and skin in minecraft as a hobby.",
+    "email": "allen.garcia@neu.edu.ph",
+	"github": "https://github.com/chairocchi"
+	},
+	"experience": [
+		{
+				"position": "IT student",
+				"organization": "New Era University",
+				"aboutWork": "Learning about IT security, Java, PHP, js and servers",
+				"fromDate": "June 2018",
+				"toDate": "Present"
+		}
+	],
+	"education": [{
+			"university": "New Era University",
+			"degree": "Bachelor of Information Technology",
+			"gpa": "1.53",
+			"fromDate": "June 2018",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "PHP"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a web developer, I enjoy most of my time playing with my dogs and spend time with my family.",
+		"paragraphTwo": "I follow a number of sci-fi and horror genre movies and games, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+	},
+	"awards": [{
+			"awardDetail": "none yet."
+		}
+	]
+}
